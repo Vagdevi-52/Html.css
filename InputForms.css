@@ -12,7 +12,7 @@ body{
     display: flex;
     flex-flow: column wrap;
     align-content: center;
-    background: violet;
+    background: blue;
     font-weight: Italic;
     padding: 20px;
 }
