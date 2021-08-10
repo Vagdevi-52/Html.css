@@ -12,7 +12,7 @@ body{
     display: flex;
     flex-flow: column wrap;
     align-content: center;
-    background: blue;
+    background:skyblue;
     font-weight: Italic;
     padding: 20px;
 }
